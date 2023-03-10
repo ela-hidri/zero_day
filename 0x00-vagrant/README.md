@@ -1,1 +1,1 @@
-0-hello_ubunto : explain what uname is
+0-hello_ubunto : shows the result of uname
